@@ -1,0 +1,261 @@
+[
+    {
+        "group": "",
+        "bucket": "default"
+    },
+    {
+        "name": "개인",
+        "group": "cjulft13r002g0734owkmxag2",
+        "bucket": "default"
+    },
+    {
+        "name": "타임즈",
+        "group": "cjw7ti27vjjgt0734kgsya78a",
+        "bucket": "cafe_times"
+    },
+    {
+        "name": "메가커피",
+        "group": "cjv0nd9gv005z0734al4bp19b",
+        "bucket": "mega_coffee"
+    },
+    {
+        "name": "팔공티",
+        "group": "cjw7tid71jjhe0734nvgtjqit",
+        "bucket": "palgong_tea"
+    },
+    {
+        "name": "커피에반하다",
+        "group": "cjw7thrb1jjfu0734py32p1yg",
+        "bucket": "coffee_banhada"
+    },
+    {
+        "name": "우주라이크",
+        "group": "cjw7tiqthjjik07343w1ls723",
+        "bucket": "wujulike"
+    },
+    {
+        "name": "모리셔스 브라운",
+        "group": "cjx5w369f7gx50757l7gfg7ot",
+        "bucket": "mauritius_brown"
+    },
+    {
+        "name": "흑화당",
+        "group": "cjxa2emrs4jtk07570rtamixl",
+        "bucket": "heukhwadang"
+    },
+    {
+        "name": "이디야",
+        "group": "cjv0ndhsy00660734nnqg5onq",
+        "bucket": "ediya"
+    },
+    {
+        "name": "더치앤빈",
+        "group": "cjyo7jnhb97z50757itw4fgk8",
+        "bucket": "dutchandbean"
+    },
+    {
+        "name": "커피온리",
+        "group": "cjxiilngg926g0757yvvnrhtt",
+        "bucket": "coffee_only"
+    },
+    {
+        "name": "호이차",
+        "group": "cjyqtl98ioo320757iovrrguu",
+        "bucket": "hoicha"
+    },
+    {
+        "name": "카페나무",
+        "group": "cjztaeqlu6h5r0757i8umw8d8",
+        "bucket": "cafenamu"
+    },
+    {
+        "name": "유니드마이요거트",
+        "group": "cjztdl0fg7pp90757limv9dis",
+        "bucket": "youneedmyyogurt"
+    },
+    {
+        "name": "카페오",
+        "group": "ck04u27r0tgp30757jnlj9fn1",
+        "bucket": "cafe_O"
+    },
+    {
+        "name": "세가프레도",
+        "group": "ck0m4u3ixxhol0757ni5i5mf2",
+        "bucket": "segafredo"
+    },
+    {
+        "name": "N214",
+        "group": "ck21om8bk4y530757ttjatb55",
+        "bucket": "N214"
+    },
+    {
+        "name": "오가다",
+        "group": "ck23axv85uapq075707upsht6",
+        "bucket": "OG-ogada"
+    },
+    {
+        "name": "주커피",
+        "group": "ck23axrwquany0757uuhtq7uu",
+        "bucket": "ZO-zoocoffee"
+    },
+    {
+        "name": "떼루와",
+        "group": "ck2k8c0tads2v0757ee8vwxng",
+        "bucket": "TE-teruwa"
+    },
+    {
+        "name": "미스사이공",
+        "group": "ck2uefyhadgzx0757h57puskx",
+        "bucket": "MS-miss420"
+    },
+    {
+        "name": "홈스테드",
+        "group": "cjyf5585sov6c0757lp0fyuuf",
+        "bucket": "HO-homestead"
+    },
+    {
+        "name": "바디쉐프",
+        "group": "ck3e7jrnq7i9m07572j9lbq7v",
+        "bucket": "BD-바디쉐프"
+    },
+    {
+        "name": "오봉도시락",
+        "group": "ck419aima4pw407573z5k18g2",
+        "bucket": "OB-오봉도시락"
+    },
+    {
+        "name": "풀무원",
+        "group": "ck7prpw002mbx0782mykaa4tt",
+        "bucket": "PU-pulmuone"
+    },
+    {
+        "name": "보돌미역",
+        "group": "ck8sjguk71qk40782rqs0uiyi",
+        "bucket": "BO-보돌미역"
+    },
+    {
+        "name": "채선당",
+        "group": "ck8sjh1ni1qpx0782oa6pqoah",
+        "bucket": "CH-채선당"
+    },
+    {
+        "name": "쿠크봉",
+        "group": "ck8sjgzss1qo70782yk6c5c5s",
+        "bucket": "CQ-쿠크봉"
+    },
+    {
+        "name": "감성커피",
+        "group": "ck8sjh2mj1qqi0782skzy9r95",
+        "bucket": "GA-감성커피"
+    },
+    {
+        "name": "공차",
+        "group": "ck8sjh0rc1qp30782q3s6ocw5",
+        "bucket": "GC-공차"
+    },
+    {
+        "name": "좋은아침 페스츄리",
+        "group": "ck8sjh3rk1qrf0782jbqtaz7f",
+        "bucket": "GM-좋은아침 페스츄리"
+    },
+    {
+        "name": "죽이야기",
+        "group": "ck8sjgqfo1qhc0782u3thtcq0",
+        "bucket": "JU-죽이야기"
+    },
+    {
+        "name": "교동짬뽕",
+        "group": "ck8sjgxkc1qm70782w0pjzhsz",
+        "bucket": "KY-교동짬뽕"
+    },
+    {
+        "name": "남도분식",
+        "group": "ck8sjgyqj1qn30782q0v4giwh",
+        "bucket": "NA-남도분식"
+    },
+    {
+        "name": "원가회관",
+        "group": "ck8sjgtef1qjh0782lvje4eyc",
+        "bucket": "OE-원가회관"
+    },
+    {
+        "name": "와플대학",
+        "group": "ck8y4jusn1nuk0882zg519n1x",
+        "bucket": "WF-와플대학"
+    },
+    {
+        "name": "옹다래찜닭",
+        "group": "ck8y4jtt41ntp0882huzvl984",
+        "bucket": "OD-옹다래 찜닭"
+    },
+    {
+        "name": "베브릿지",
+        "group": "ck99rkay3gre00882qiasbqru",
+        "bucket": "BE-베브릿지"
+    },
+    {
+        "name": "쩐주단",
+        "group": "ck9i1kry2527e078260m45rwh",
+        "bucket": "JJ-쩐주단"
+    },
+    {
+        "name": "배러댄와플",
+        "group": "ckccv9za814n60782l1hxut0j",
+        "bucket": "BW-베러댄와플"
+    },
+    {
+        "name": "아재커피",
+        "group": "ckd8e6tqxmyj407828c15yw1f",
+        "bucket": "AZ-아재커피"
+    },
+    {
+        "name": "스마일커피",
+        "group": "ckdtm9mgmkqf20782b9opeuxw",
+        "bucket": "SM-스마일커피"
+    },
+    {
+        "name": "사푼사푼",
+        "group": "ckdtmabo8kque07822ufr3lvu",
+        "bucket": "KT-사푼사푼"
+    },
+    {
+        "name": "커피박스",
+        "group": "ckf2a15lag4xn0782smfso8kk",
+        "bucket": "BX-커피박스"
+    },
+    {
+        "name": "카페드림",
+        "group": "ckfbuuh3tklph07824bh1xghr",
+        "bucket": "DR-카페드림"
+    },
+    {
+        "name": "만덕식당",
+        "group": "ckfer0edjmo6n0782ykdy6dtb",
+        "bucket": "MD-만덕식당"
+    },
+    {
+        "name": "안인정미소",
+        "group": "ckfetoca4nzo50782dfx5s9ey",
+        "bucket": "AN-안인정미소"
+    },
+    {
+        "name": "마시그래이",
+        "group": "ckfgfcvrr91270782mipv1o82",
+        "bucket": "MI-마시그래이"
+    },
+    {
+        "name": "말통커피",
+        "group": "ckgqc3mbztqhd0782oxll421u",
+        "bucket": "MT-말통커피"
+    },
+    {
+        "name": "록시드갸토",
+        "group": "ckhd8rvtwsa9h0782cvwoyvlf",
+        "bucket": "LX-록시드갸토"
+    },
+    {
+        "name": "팬도로시",
+        "group": "cjvx3o17t7vj70734u789phxy",
+        "bucket": "PA-팬도로시"
+    }
+]

@@ -1,0 +1,56 @@
+body { margin: 0px;}
+a { color:#e2422a; text-decoration:none;}
+a:hover { color:#e2422a; text-decoration:underline;}
+
+/** React MUI **/
+
+.MuiContainer-root { padding-left: 0px !important; padding-right: 0px !important; }
+.MuiDrawer-root a { color:#bdbdbd; text-decoration: none; }
+
+.MuiFlatPageButton-rootCurrent { background-color:#fd7c68 !important; color:#ffffff !important; }
+
+#coupon-type-list-small { padding:8.5px; } 
+
+.AutoComplete #combo-box-groupcode { padding: 8px; }
+
+
+
+.page-box { padding-top:10px; }
+
+
+
+.store-container .MuiOutlinedInput-input, .user-container .MuiOutlinedInput-input { padding: 14px; }
+.store-container textarea.MuiOutlinedInput-input, textarea.user-container .MuiOutlinedInput-input { padding: 0px; }
+.store-container .no-padding .MuiOutlinedInput-input, .no-padding  .user-container .MuiOutlinedInput-input { padding: 0px; }
+.store-container .MuiInputLabel-outlined, .user-container .MuiInputLabel-outlined { transform: translate(14px, 16px) scale(1); }
+
+
+
+.text-area-container .DraftEditor-root { height:268px; border-radius:4px; padding:0px 10px; border:1px solid #e7e7e7; overflow:auto; }
+.text-area-container .DraftEditor-editorContainer { height:auto; }
+
+
+
+/** Sticky Memo **/
+.sticky-note-contents ul {
+    padding-left: 20px;
+    margin:0px;
+}
+
+
+/** Custom **/
+.base-container { margin-top: 48px; }
+.sample-image { width:100%; }
+
+
+.login-input { width:100%; margin-bottom:40px; }
+
+
+.circle { display:inline-block; border-radius:50%; width:8px; height:8px; background-color:#777777; }
+.circle.circle-red { background-color:#e03d3d; }
+.circle.circle-orange { background-color:#ff9200; }
+.circle.circle-green { background-color:#14b114; }
+.circle.circle-purple { background-color:#612bb8; }
+
+
+#bar-chart > svg { margin-right:32px; }
